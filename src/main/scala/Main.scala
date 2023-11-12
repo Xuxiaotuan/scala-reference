@@ -1,7 +1,8 @@
 /**
  * @author : XuJiaWei
- * @since : ${YEAR}-${MONTH}-${DAY} ${TIME}
-*/object Main {
+ * @since : 2023-11-12 11:35
+*/
+object Main {
   def main(args: Array[String]): Unit = {
     println("Hello world!")
   }
